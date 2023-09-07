@@ -1,4 +1,4 @@
-<img align="center" width="400" src="https://media.licdn.com/dms/image/D4D16AQEWCYN-FX2IXA/profile-displaybackgroundimage-shrink_350_1400/0/1677180527919?e=1699488000&v=beta&t=lEI8Sii5SSetmC0RQOhZ6UOeDETsFj_Orl_vxcNNFC0" alt="" srcset="">
+<img align="center" width="100vw" src="https://media.licdn.com/dms/image/D4D16AQEWCYN-FX2IXA/profile-displaybackgroundimage-shrink_350_1400/0/1677180527919?e=1699488000&v=beta&t=lEI8Sii5SSetmC0RQOhZ6UOeDETsFj_Orl_vxcNNFC0" alt="" srcset="">
 
 <h1 align="center">Hi 👋, I'm Nahuel Pallavidini</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
